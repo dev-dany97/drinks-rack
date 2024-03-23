@@ -22,3 +22,21 @@ The wine battens slope down to the front by 8 %. That way the cork stays wet and
 - Wine level: 11 bottles
 
 Measure your own crates first. Crates from different breweries are a few cm off from each other.
+
+## Parts
+
+| Qty | Part | Size | Notes |
+|---|---|---|---|
+| 4 | Spruce beam, planed | 45 × 45 mm, 270 cm | posts |
+| 4 | Spruce beam, planed | 45 × 45 mm, 24 cm | cross pieces of the side frames |
+| 10 | Aluminium square tube | 20 × 20 × 1.5 mm, 123 cm | crate bars, 2 per level |
+| 20 | Threaded end plugs | 20 × 20 mm, M6 | go into the tube ends |
+| 20 | Hex bolt + washer | M6 × 60 mm | through the post into the plug |
+| 2 | Spruce batten | 45 × 20 mm, 123 cm | wine battens (notched) |
+| 4 | Spruce batten | 20 × 20 mm, 24 cm | supports for wine level and shelf |
+| 1 | Board, spruce or plywood | 18 mm, 123 × 32 cm | top shelf |
+| ~24 | Wood screws | 5 × 80 mm | side frames |
+| ~16 | Wood screws | 4 × 40 mm | battens, supports, shelf |
+| 2 | Angle brackets, plugs, screws | | wall anchoring |
+
+Optional: wood oil or clear varnish.
