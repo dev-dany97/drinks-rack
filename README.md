@@ -55,6 +55,30 @@ Floor to centre of the bar. Front bars go into the front posts, back bars into t
 
 Wine level: front batten at ~244 cm, back batten 14 cm further back and ~1 cm higher. Top shelf at 262 cm.
 
+## Tools
+
+- Saw (mitre saw if you have one)
+- Metal saw or angle grinder for the aluminium, file to deburr
+- Drill, 6.5 mm wood bit, pilot bits
+- Hole saw (~75 mm) or jigsaw for the bottle notches
+- Spirit level, square, tape measure
+
+## Build
+
+1. Cut everything to length and deburr the aluminium tubes.
+2. Side frames: one front and one back post, joined with a cross piece at the top and one ~4 cm above the floor. Pre-drill, two 5 × 80 screws per joint. Check the diagonals, they should be equal.
+3. Put both side frames next to each other and mark the bar heights on both at once. Drill 6.5 mm through the middle of the post at every mark.
+4. Knock an end plug into both ends of every tube.
+5. Stand the frames up, mount the lowest and the highest bars first, then the rest. Bolt through the post into the plug. Tighten everything only when all bars are in and the rack is straight.
+6. Wine level: mark 11 bottles on the battens (~9.9 cm apart) and cut the notches. Screw the supports to the inside of the side frames, front batten at the front, back batten 14 cm behind it and ~1 cm higher.
+7. Screw the shelf supports on at 262 cm and the board on top.
+8. Anchor the rack to the wall with the angle brackets before loading it.
+9. Hang the crates from the front: bottom on the back bar, front wall against the front bar.
+
+## Notes
+
+A full crate is around 15 kg, so a fully loaded rack is well over 200 kg. Don't skip the wall anchoring. Load from the bottom, unload from the top, and check the bolts now and then.
+
 ## License
 
 MIT
