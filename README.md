@@ -2,6 +2,8 @@
 
 Big wooden drinks rack with an extra row for wine bottles above and a shelf on top for extra space.
 
+<img src="docs/images/rack.webp" alt="Finished rack" width="350">
+
 ## How it works
 
 The crates hang at about 45° with the opening to the front, so you can take bottles out without pulling the crate.
