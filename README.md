@@ -1,6 +1,8 @@
 # drinks-rack
 
-Wooden rack for 15 drink crates. Five levels with three crates each, a row for wine bottles above and a shelf on top.
+Wooden rack for 15 drink crates, built in 2024. Five levels with three crates each, a row for wine bottles above and a shelf on top.
+
+![Finished rack](docs/images/rack.webp)
 
 ## How it works
 
